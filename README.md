@@ -1,2 +1,2 @@
 # tickerwatch
-A simple symbol tracker for NASDAQ tickers
+A very simple symbol tracker for NASDAQ tickers
